@@ -1,0 +1,21 @@
+[11-Oct-2021 07:45:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ayurveda'@'localhost' (using password: YES) in /home4/webcrei1/public_html/ayurvedamd.in/admin/connect.php on line 2
+[11-Oct-2021 07:45:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/webcrei1/public_html/ayurvedamd.in/about.php on line 14
+[11-Oct-2021 07:45:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/webcrei1/public_html/ayurvedamd.in/about.php on line 15
+[11-Oct-2021 07:45:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ayurveda'@'localhost' (using password: YES) in /home4/webcrei1/public_html/ayurvedamd.in/admin/connect.php on line 2
+[11-Oct-2021 07:45:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ayurveda'@'localhost' (using password: YES) in /home4/webcrei1/public_html/ayurvedamd.in/admin/connect.php on line 2
+[11-Oct-2021 07:47:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ayurveda'@'localhost' (using password: YES) in /home4/webcrei1/public_html/ayurvedamd.in/admin/connect.php on line 2
+[11-Oct-2021 07:47:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ayurveda'@'localhost' (using password: YES) in /home4/webcrei1/public_html/ayurvedamd.in/admin/connect.php on line 2
+[11-Oct-2021 07:47:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ayurveda'@'localhost' (using password: YES) in /home4/webcrei1/public_html/ayurvedamd.in/admin/connect.php on line 2
+[11-Oct-2021 07:47:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/webcrei1/public_html/ayurvedamd.in/about.php on line 14
+[11-Oct-2021 07:47:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/webcrei1/public_html/ayurvedamd.in/about.php on line 15
+[26-Oct-2021 07:18:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/webcrei1/public_html/ayurvedamd.in/admin/connect.php on line 2
+[26-Oct-2021 07:18:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/webcrei1/public_html/ayurvedamd.in/index.php on line 326
+[26-Oct-2021 07:18:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/webcrei1/public_html/ayurvedamd.in/index.php on line 327
+[26-Oct-2021 07:18:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/webcrei1/public_html/ayurvedamd.in/admin/connect.php on line 2
+[26-Oct-2021 07:18:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/webcrei1/public_html/ayurvedamd.in/index.php on line 371
+[26-Oct-2021 07:18:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/webcrei1/public_html/ayurvedamd.in/index.php on line 373
+[26-Oct-2021 07:18:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/webcrei1/public_html/ayurvedamd.in/admin/connect.php on line 2
+[26-Oct-2021 07:18:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/webcrei1/public_html/ayurvedamd.in/index.php on line 411
+[26-Oct-2021 07:18:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/webcrei1/public_html/ayurvedamd.in/index.php on line 412
+[26-Oct-2021 07:18:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/webcrei1/public_html/ayurvedamd.in/admin/connect.php on line 2
+[26-Oct-2021 07:18:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/webcrei1/public_html/ayurvedamd.in/admin/connect.php on line 2

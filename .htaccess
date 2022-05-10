@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^\ayurvedamd\.in$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.ayurvedamd\.in$
+RewriteRule ^/?$ "http\:\/\/https\:\/\/" [R=301,L]
